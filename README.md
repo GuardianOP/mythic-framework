@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/1WBgK25.png)
+![Logo](https://i.imgur.com/uv0El0Z.jpeg)
 
 # Mythic RP Framework
 
