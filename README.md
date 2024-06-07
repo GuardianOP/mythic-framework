@@ -1,6 +1,9 @@
 ![Logo](https://i.imgur.com/uv0El0Z.jpeg)
 
-# Mythic RP Framework
+## Mythic RP Framework
+
+# 🚧DISCLAIMER🚧
+I do not own this framework, and I am simply trying to give it the support it deserves. The framework was originally built by Alzar & Dr Nick. Alzar has taken the liberty of releasing the framework, which you can find by following the [original repository](https://github.com/Alzar/mythic-framework) I forked to create this. 
 
 # Requirements 
 - [Xaamp](https://www.apachefriends.org/download.html) (This is needed to 1 set of the database) 
