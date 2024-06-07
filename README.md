@@ -3,8 +3,8 @@
 # Mythic RP Framework
 
 # Requirements 
-- Xaamp (This is needed to 1 set of the database) https://www.apachefriends.org/download.html
-- MongoDB (This runs the 2nd set of the database) https://www.mongodb.com/try/download/community
+- [Xaamp](https://www.apachefriends.org/download.html) (This is needed to 1 set of the database) 
+- [MongoDB]([https://i.imgur.com/uv0El0Z.jpeg](https://www.mongodb.com/try/download/community)) (This runs the 2nd set of the database)
 - Basic understanding of code
   
 # SQL Instaliation
